@@ -1,0 +1,47 @@
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Ambientes Virtuais (Virtual Environments)
+# Ignora a pasta venv, a mais comum.
+venv/
+env/
+.venv/
+*/venv/
+
+# Pacotes e Distribuição Python
+__pycache__/
+*.pyc
+*.pyd
+*.so
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Logs e Dados Temporários
+*.log
+*.tmp
+.idea/
+.vscode/
+
+# Jupyter Notebook e IPYthon
+.ipynb_checkpoints
+
+# IDEs (Ajuste conforme a sua preferência)
+# PyCharm
+.idea/
+# VS Code
+.vscode/
+
+# Bancos de Dados e Arquivos de Configuração Sensíveis
+
+
+# Arquivos de Configuração Local (onde você pode armazenar credenciais)
+config_local.py
+settings_local.py
+
+# MySQL/Banco de Dados - Se você tiver arquivos gerados (ex: dumps ou dados temporários)
+*.dump
+*.bak
