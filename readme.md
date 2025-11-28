@@ -109,9 +109,9 @@ Crie o banco de dados no MySQL e ajuste as credenciais no arquivo de configuraç
 
 ## **👤 Autor**
 
-Projeto desenvolvido por: **\[Seu Nome Aqui\]**
+Projeto desenvolvido por: **\[Olívia Bonfim\]**
 
-* Contato: *(adicione email, site ou redes sociais, se desejar)*
+* Contato: *(email senai: @olivia.c@aluno.senai.br, insta: oliviaabcosta)*
 
 ---
 
